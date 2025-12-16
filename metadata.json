@@ -1,0 +1,7 @@
+{
+  "name": "Gesture-Controlled 3D Particles",
+  "description": "A 3D interactive experience where hand gestures control a particle-based 'THANKS' sign. Uses Three.js for rendering and MediaPipe for computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
